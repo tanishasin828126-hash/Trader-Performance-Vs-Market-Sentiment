@@ -243,7 +243,7 @@ Examples of insights extracted:
 Sentiment has been shown in research to influence returns and market behavior. 
 
 
-# 🤖 PART 6 — Machine Learning Model
+#  PART 6 — Machine Learning Model
 
 ## Goal
 
